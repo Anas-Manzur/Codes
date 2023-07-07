@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515328345 source:k:\ \slides\tic\main.c
+	<stdio.h>
+
+1515341440 source:j:\ \slides\tic\main.c
+	<stdio.h>
+

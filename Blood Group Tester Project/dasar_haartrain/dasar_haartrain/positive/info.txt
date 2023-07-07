@@ -1,0 +1,22 @@
+rawdata/image0.bmp 1 313 192 26 20
+rawdata/image1.bmp 1 268 232 39 27
+rawdata/image10.bmp 1 459 214 13 14
+rawdata/image11.bmp 1 96 246 19 16
+rawdata/image12.bmp 1 96 248 20 15
+rawdata/image13.bmp 2 76 247 21 19 413 227 21 15
+rawdata/image14.bmp 2 159 195 23 21 314 179 31 23
+rawdata/image15.bmp 1 125 227 23 18
+rawdata/image16.bmp 2 110 228 29 21 281 238 27 18
+rawdata/image17.bmp 2 104 238 34 21 316 205 23 20
+rawdata/image18.bmp 2 112 201 29 19 305 194 27 21
+rawdata/image19.bmp 2 119 198 30 21 319 179 29 20
+rawdata/image2.bmp 1 315 206 20 17
+rawdata/image20.bmp 2 123 206 32 19 345 187 22 20
+rawdata/image21.bmp 2 140 203 28 18 313 206 31 23
+rawdata/image22.bmp 3 132 238 17 14 317 240 7 17 462 250 11 8
+rawdata/image3.bmp 1 305 193 23 19
+rawdata/image4.bmp 1 319 179 23 22
+rawdata/image5.bmp 1 343 184 25 19
+rawdata/image6.bmp 1 316 202 26 25
+rawdata/image7.bmp 1 288 226 26 19
+rawdata/image8.bmp 2 284 232 12 28 441 200 12 33

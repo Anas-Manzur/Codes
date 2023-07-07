@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1514175221 source:f:\study\others\me 172\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1514871991 source:j:\ \slides\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1514901390 source:k:\ \slides\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+

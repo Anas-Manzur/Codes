@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<myhaar type_id="opencv-haar-classifier">
+  <size>
+    24 24</size>
+  <stages>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 1 24 21 -1.</_>
+                <_>
+                  8 8 8 7 9.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.2017181068658829</threshold>
+            <left_val>0.8771932125091553</left_val>
+            <right_val>-1.0000020265579224</right_val></_></_></trees>
+      <stage_threshold>0.8771932125091553</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 19 24 5 -1.</_>
+                <_>
+                  6 19 12 5 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0378907881677151</threshold>
+            <left_val>0.8788412809371948</left_val>
+            <right_val>-0.7571874260902405</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  16 14 8 2 -1.</_>
+                <_>
+                  16 14 4 2 2.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>-4.0759472176432610e-003</threshold>
+            <left_val>0.3680126070976257</left_val>
+            <right_val>-0.8830677866935730</right_val></_></_></trees>
+      <stage_threshold>-0.3891747891902924</stage_threshold>
+      <parent>0</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  6 15 3 6 -1.</_>
+                <_>
+                  6 15 3 3 2.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>-0.0292540602385998</threshold>
+            <left_val>0.9238231778144836</left_val>
+            <right_val>-0.6952121257781982</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 4 24 16 -1.</_>
+                <_>
+                  6 4 12 16 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.1816104948520660</threshold>
+            <left_val>0.9765738844871521</left_val>
+            <right_val>-0.7321212291717529</right_val></_></_></trees>
+      <stage_threshold>0.1917020976543427</stage_threshold>
+      <parent>1</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 0 9 24 -1.</_>
+                <_>
+                  0 6 9 12 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0553331412374973</threshold>
+            <left_val>0.6212127208709717</left_val>
+            <right_val>-1.0000020265579224</right_val></_></_></trees>
+      <stage_threshold>0.6212127208709717</stage_threshold>
+      <parent>2</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  2 3 2 2 -1.</_>
+                <_>
+                  2 3 1 2 2.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>2.3833609884604812e-004</threshold>
+            <left_val>-0.9032331705093384</left_val>
+            <right_val>0.7369487881660461</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  6 1 12 4 -1.</_>
+                <_>
+                  12 1 6 2 2.</_>
+                <_>
+                  6 3 6 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>2.0580319687724113e-004</threshold>
+            <left_val>-0.8666160106658936</left_val>
+            <right_val>0.7273716926574707</right_val></_></_></trees>
+      <stage_threshold>-0.1758614927530289</stage_threshold>
+      <parent>3</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  4 18 1 4 -1.</_>
+                <_>
+                  3 19 1 2 2.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>1.0389270028099418e-003</threshold>
+            <left_val>0.3896107971668243</left_val>
+            <right_val>-1.0000029802322388</right_val></_></_></trees>
+      <stage_threshold>0.3896107971668243</stage_threshold>
+      <parent>4</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  4 18 2 4 -1.</_>
+                <_>
+                  4 18 2 2 2.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>-4.1027162224054337e-003</threshold>
+            <left_val>0.5012760758399963</left_val>
+            <right_val>-0.8801810741424561</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  6 16 18 1 -1.</_>
+                <_>
+                  6 16 9 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0234263408929110</threshold>
+            <left_val>0.4624351859092712</left_val>
+            <right_val>-0.2335187941789627</right_val></_></_></trees>
+      <stage_threshold>-0.4177458882331848</stage_threshold>
+      <parent>5</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 6 4 15 -1.</_>
+                <_>
+                  2 6 2 15 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-6.2780859880149364e-003</threshold>
+            <left_val>0.4329634904861450</left_val>
+            <right_val>-0.8692356944084168</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  15 11 9 6 -1.</_>
+                <_>
+                  15 14 9 3 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0311137791723013</threshold>
+            <left_val>-1.</left_val>
+            <right_val>-0.0261776298284531</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 11 9 6 -1.</_>
+                <_>
+                  0 14 9 3 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>5.1200720481574535e-003</threshold>
+            <left_val>-0.7973489165306091</left_val>
+            <right_val>0.4638623893260956</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  5 0 14 24 -1.</_>
+                <_>
+                  5 0 7 24 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.1473975032567978</threshold>
+            <left_val>-0.4099633097648621</left_val>
+            <right_val>0.8856663703918457</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  3 6 2 1 -1.</_>
+                <_>
+                  4 6 1 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>1.7231910533155315e-005</threshold>
+            <left_val>0.4754410982131958</left_val>
+            <right_val>-0.9362130761146545</right_val></_></_></trees>
+      <stage_threshold>-0.3660731017589569</stage_threshold>
+      <parent>6</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  2 0 8 20 -1.</_>
+                <_>
+                  2 0 4 10 2.</_>
+                <_>
+                  6 10 4 10 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-4.6149329282343388e-003</threshold>
+            <left_val>0.3645060956478119</left_val>
+            <right_val>-0.7371835112571716</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  19 1 4 4 -1.</_>
+                <_>
+                  19 1 2 4 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.3619350502267480e-003</threshold>
+            <left_val>0.2751198112964630</left_val>
+            <right_val>-0.6796256899833679</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  4 14 8 3 -1.</_>
+                <_>
+                  4 15 8 1 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-7.1032159030437469e-004</threshold>
+            <left_val>0.4452019035816193</left_val>
+            <right_val>-0.6536657214164734</right_val></_></_></trees>
+      <stage_threshold>-0.0168617404997349</stage_threshold>
+      <parent>7</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  3 3 18 2 -1.</_>
+                <_>
+                  3 4 18 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.8426650203764439e-003</threshold>
+            <left_val>0.4087780117988586</left_val>
+            <right_val>-0.7528893947601318</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  7 5 12 9 -1.</_>
+                <_>
+                  7 5 6 9 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.0304333902895451</threshold>
+            <left_val>-0.3219316005706787</left_val>
+            <right_val>0.5097103118896484</right_val></_></_></trees>
+      <stage_threshold>-0.2431790977716446</stage_threshold>
+      <parent>8</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  6 1 1 4 -1.</_>
+                <_>
+                  6 2 1 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>1.5652780348318629e-005</threshold>
+            <left_val>0.3305074870586395</left_val>
+            <right_val>-0.8453215956687927</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  18 21 2 2 -1.</_>
+                <_>
+                  19 21 1 1 2.</_>
+                <_>
+                  18 22 1 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-2.2305830498225987e-005</threshold>
+            <left_val>-0.3599193096160889</left_val>
+            <right_val>0.0600806809961796</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  4 21 2 2 -1.</_>
+                <_>
+                  4 21 1 1 2.</_>
+                <_>
+                  5 22 1 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-1.9985980543424375e-005</threshold>
+            <left_val>-0.8585621714591980</left_val>
+            <right_val>0.3437741100788117</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  9 13 6 4 -1.</_>
+                <_>
+                  12 13 3 2 2.</_>
+                <_>
+                  9 15 3 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>3.4821580629795790e-003</threshold>
+            <left_val>-0.4235970973968506</left_val>
+            <right_val>0.7410249710083008</right_val></_></_></trees>
+      <stage_threshold>-0.8650640249252319</stage_threshold>
+      <parent>9</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  3 10 2 2 -1.</_>
+                <_>
+                  3 10 1 1 2.</_>
+                <_>
+                  4 11 1 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>2.0278770534787327e-005</threshold>
+            <left_val>0.2738099992275238</left_val>
+            <right_val>-1.0000040531158447</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  12 12 1 3 -1.</_>
+                <_>
+                  12 13 1 1 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-9.8102621268481016e-004</threshold>
+            <left_val>0.3040950894355774</left_val>
+            <right_val>-0.1586364954710007</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  1 5 7 12 -1.</_>
+                <_>
+                  1 9 7 4 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-4.0865121409296989e-003</threshold>
+            <left_val>0.2507047951221466</left_val>
+            <right_val>-1.0000040531158447</right_val></_></_></trees>
+      <stage_threshold>0.3658783137798309</stage_threshold>
+      <parent>10</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 1 6 2 -1.</_>
+                <_>
+                  3 1 3 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-2.0641589071601629e-003</threshold>
+            <left_val>0.3882584869861603</left_val>
+            <right_val>-0.6508989930152893</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  7 19 10 4 -1.</_>
+                <_>
+                  12 19 5 2 2.</_>
+                <_>
+                  7 21 5 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-6.7938410211354494e-004</threshold>
+            <left_val>0.4113205969333649</left_val>
+            <right_val>-0.6043447256088257</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 19 13 2 -1.</_>
+                <_>
+                  0 20 13 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>1.0274259839206934e-003</threshold>
+            <left_val>-0.9042283296585083</left_val>
+            <right_val>0.3096208870410919</right_val></_></_></trees>
+      <stage_threshold>-0.1046492010354996</stage_threshold>
+      <parent>11</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  11 0 2 2 -1.</_>
+                <_>
+                  11 0 1 1 2.</_>
+                <_>
+                  12 1 1 1 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-3.4644548577489331e-005</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.2478134930133820</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  4 5 18 7 -1.</_>
+                <_>
+                  10 5 6 7 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0320930816233158</threshold>
+            <left_val>0.2253122031688690</left_val>
+            <right_val>-0.4622868001461029</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  10 9 3 5 -1.</_>
+                <_>
+                  11 10 1 5 3.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>-2.9859100468456745e-003</threshold>
+            <left_val>0.5886405110359192</left_val>
+            <right_val>-0.4791938960552216</right_val></_></_></trees>
+      <stage_threshold>-6.0681998729705811e-003</stage_threshold>
+      <parent>12</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 6 8 9 -1.</_>
+                <_>
+                  0 9 8 3 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0242944993078709</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.2588236033916473</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  13 4 6 12 -1.</_>
+                <_>
+                  9 8 6 4 3.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>0.0857695937156677</threshold>
+            <left_val>-0.1292051970958710</left_val>
+            <right_val>0.9999992251396179</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  10 18 1 4 -1.</_>
+                <_>
+                  10 20 1 2 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>1.4480520039796829e-003</threshold>
+            <left_val>0.3379622101783752</left_val>
+            <right_val>-0.7847884297370911</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  12 3 6 12 -1.</_>
+                <_>
+                  8 7 6 4 3.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>-0.0763555020093918</threshold>
+            <left_val>0.2538824975490570</left_val>
+            <right_val>-0.3633289039134979</right_val></_></_></trees>
+      <stage_threshold>-0.4012874960899353</stage_threshold>
+      <parent>13</parent>
+      <next>-1</next></_></stages></myhaar>
+</opencv_storage>
