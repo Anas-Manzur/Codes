@@ -1,0 +1,178 @@
+			Output Summary													Page 1	
+			Released to the following HTRI Member Company:														
+			  BUET														
+			  Anas														
+XistS Ver. 6.00    12/15/2020  16:45  SN: Vals100+															          SI Units		
+																	
+																	
+Design - Vertical Multipass Flow TEMA CEU Shell With No Baffles																	
+See Data Check Messages Report for Warning Messages.																	
+See Runtime Message Report for Warning Messages.																	
+Process Conditions					Cold Shellside							Hot Tubeside					
+Fluid name									Water		 				Water	 	
+Flow rate		(kg/s)							289.202						649.972		
+Inlet/Outlet Y		(Wt. frac vap.)				0.000			0.270				0.000		0.000		
+Inlet/Outlet T		(Deg C)				200.00			284.85	*			337.00		300.00		
+Inlet P/Avg		(kPa)				6900.10							15000.2		14967.9		
+dP/Allow.		(kPa)				11.419			70.001				64.568		70.001		
+Fouling		(m2-K/W)							0.000879						0.000121		
+Exchanger Performance																	
+Shell h		(W/m2-K)				5679.19			Actual U				(W/m2-K)		765.09		
+Tube h		(W/m2-K)				16717.9			Required U				(W/m2-K)		765.32		
+Hot regime		(--)				Sens. Liquid			Duty				(MegaWatts)		194.382		
+Cold regime		(--)							Area				(m2)		6954.60		
+EMTD		(Deg C)				35.2			Overdesign				(%)		-0.03		
+Shell Geometry									Baffle Geometry								
+TEMA type		(--)				CEU			Baffle type				(--)		None		
+Shell ID		(mm)				1524.00			Baffle cut				(Pct Dia.)		0.00		
+Series		(--)				2			Baffle orientation				(--)				
+Parallel		(--)				4			Central spacing				(mm)		1247.59		
+Orientation		(deg)				90.00			Crosspasses				(--)		9		
+Tube Geometry									Nozzles								
+Tube type		(--)				Plain			Shell inlet				(mm)		258.877		
+Tube OD		(mm)				19.050			Shell outlet				(mm)		307.087		
+Length		(m)				10.000			Inlet height				(mm)		91.065		
+Pitch ratio		(--)				1.9605			Outlet height				(mm)		91.065		
+Layout		(deg)				60			Tube inlet				(mm)		387.351		
+Tubecount		(--)				1386			Tube outlet				(mm)		387.351		
+Tube Pass		(--)				2											
+Thermal Resistance, %					Velocities, m/s							Flow Fractions					
+Shell		12.80			Shellside				1.53			A					
+Tube		6.95			Tubeside				2.21			B			0.986		
+Fouling		74.41			Crossflow				0.24			C			0.014		
+Metal		5.84			Window				1.50			E					
+												F					
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
